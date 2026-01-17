@@ -1,5 +1,5 @@
+[![Watch the video](https://img.youtube.com)](https://youtu.be/5mN5PgrlTis)
 # Simple RDBMS
-
 This project implements a simplified relational database management system.
 
 ## Features
